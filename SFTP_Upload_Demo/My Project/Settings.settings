@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.39</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user-admin1</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">socl8rdc</Value>
+    </Setting>
+    <Setting Name="ServerUploadPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/home/user-admin1/test_auto_upload/</Value>
+    </Setting>
+    <Setting Name="ServerRootPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/home/user-admin1/test_auto_upload/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
